@@ -1,0 +1,74 @@
+{
+    "set1": {
+        "path": "cloud/figures1/",
+        "images": [
+            "CAT_25_cloud_fig1.png", "CAT_25_cloud_fig2.png", "CAT_25_cloud_fig3.png", "CAT_25_cloud_fig4.png",
+            "CAT_25_cloud_fig5.png", "CAT_25_cloud_fig6.png", "CAT_25_cloud_fig7.png", "CAT_25_cloud_fig8.png",
+            "CAT_25_cloud_fig9.png", "CAT_25_cloud_fig10.png", "CAT_25_cloud_fig11.png", "CAT_25_cloud_fig12.png",
+            "CAT_25_cloud_fig13.png", "CAT_25_cloud_fig14.png", "CAT_25_cloud_fig15.png", "CAT_25_cloud_fig16.png",
+            "CAT_25_cloud_fig17.png", "CAT_25_cloud_fig18.png", "CAT_25_cloud_fig19.png", "CAT_25_cloud_fig20.png",
+            "CAT_25_cloud_fig21.png", "CAT_25_cloud_fig22.png", "CAT_25_cloud_fig23.png", "CAT_25_cloud_fig24.png",
+            "CAT_25_cloud_fig25.png", "CAT_25_cloud_fig26.png", "CAT_25_cloud_final.png"
+        ]
+    },
+    "set2": {
+        "path": "cloud/figures2/",
+        "images": [
+            "CAT_25_cloud_fig1.png", "CAT_25_cloud_fig2.png", "CAT_25_cloud_fig3.png", "CAT_25_cloud_fig4.png",
+            "CAT_25_cloud_fig5.png", "CAT_25_cloud_fig6.png", "CAT_25_cloud_fig7.png", "CAT_25_cloud_fig8.png",
+            "CAT_25_cloud_fig9.png", "CAT_25_cloud_fig10.png", "CAT_25_cloud_fig11.png", "CAT_25_cloud_fig12.png",
+            "CAT_25_cloud_fig13.png", "CAT_25_cloud_fig14.png", "CAT_25_cloud_fig15.png", "CAT_25_cloud_fig16.png",
+            "CAT_25_cloud_fig17.png", "CAT_25_cloud_fig18.png", "CAT_25_cloud_fig19.png", "CAT_25_cloud_fig20.png",
+            "CAT_25_cloud_fig21.png", "CAT_25_cloud_fig22.png", "CAT_25_cloud_fig23.png", "CAT_25_cloud_fig24.png",
+            "CAT_25_cloud_fig25.png", "CAT_25_cloud_fig26.png", "CAT_25_cloud_final.png"
+        ]
+    },
+    "set3": {
+        "path": "central/figures1/",
+        "images": [
+            "CAT_25_cent_fig1.png", "CAT_25_cent_fig2.png", "CAT_25_cent_fig3.png", "CAT_25_cent_fig4.png",
+            "CAT_25_cent_fig5.png", "CAT_25_cent_fig6.png", "CAT_25_cent_fig7.png", "CAT_25_cent_fig8.png",
+            "CAT_25_cent_fig9.png", "CAT_25_cent_fig10.png", "CAT_25_cent_fig11.png", "CAT_25_cent_fig12.png",
+            "CAT_25_cent_fig13.png", "CAT_25_cent_fig14.png", "CAT_25_cent_fig15.png", "CAT_25_cent_fig16.png",
+            "CAT_25_cent_fig17.png", "CAT_25_cent_fig18.png", "CAT_25_cent_fig19.png", "CAT_25_cent_fig20.png",
+            "CAT_25_cent_fig21.png", "CAT_25_cent_fig22.png", "CAT_25_cent_fig23.png", "CAT_25_cent_fig24.png",
+            "CAT_25_cent_fig25.png", "CAT_25_cent_fig26.png", "CAT_25_cent_final.png"
+        ]
+    },
+    "set4": {
+        "path": "central/figures2/",
+        "images": [
+            "CAT_25_cent_fig1.png", "CAT_25_cent_fig2.png", "CAT_25_cent_fig3.png", "CAT_25_cent_fig4.png",
+            "CAT_25_cent_fig5.png", "CAT_25_cent_fig6.png", "CAT_25_cent_fig7.png", "CAT_25_cent_fig8.png",
+            "CAT_25_cent_fig9.png", "CAT_25_cent_fig10.png", "CAT_25_cent_fig11.png", "CAT_25_cent_fig12.png",
+            "CAT_25_cent_fig13.png", "CAT_25_cent_fig14.png", "CAT_25_cent_fig15.png", "CAT_25_cent_fig16.png",
+            "CAT_25_cent_fig17.png", "CAT_25_cent_fig18.png", "CAT_25_cent_fig19.png", "CAT_25_cent_fig20.png",
+            "CAT_25_cent_fig21.png", "CAT_25_cent_fig22.png", "CAT_25_cent_fig23.png", "CAT_25_cent_fig24.png",
+            "CAT_25_cent_fig25.png", "CAT_25_cent_fig26.png", "CAT_25_cent_final.png"
+        ]
+    },
+    "set5": {
+        "path": "lateral/figures1/",
+        "images": [
+            "CAT_25_lat_fig1.png", "CAT_25_lat_fig2.png", "CAT_25_lat_fig3.png", "CAT_25_lat_fig4.png",
+            "CAT_25_lat_fig5.png", "CAT_25_lat_fig6.png", "CAT_25_lat_fig7.png", "CAT_25_lat_fig8.png",
+            "CAT_25_lat_fig9.png", "CAT_25_lat_fig10.png", "CAT_25_lat_fig11.png", "CAT_25_lat_fig12.png",
+            "CAT_25_lat_fig13.png", "CAT_25_lat_fig14.png", "CAT_25_lat_fig15.png", "CAT_25_lat_fig16.png",
+            "CAT_25_lat_fig17.png", "CAT_25_lat_fig18.png", "CAT_25_lat_fig19.png", "CAT_25_lat_fig20.png",
+            "CAT_25_lat_fig21.png", "CAT_25_lat_fig22.png", "CAT_25_lat_fig23.png", "CAT_25_lat_fig24.png",
+            "CAT_25_lat_fig25.png", "CAT_25_lat_fig26.png", "CAT_25_lat_final.png"
+        ]
+    },
+    "set6": {
+        "path": "lateral/figures2/",
+        "images": [
+            "CAT_25_lat_fig1.png", "CAT_25_lat_fig2.png", "CAT_25_lat_fig3.png", "CAT_25_lat_fig4.png",
+            "CAT_25_lat_fig5.png", "CAT_25_lat_fig6.png", "CAT_25_lat_fig7.png", "CAT_25_lat_fig8.png",
+            "CAT_25_lat_fig9.png", "CAT_25_lat_fig10.png", "CAT_25_lat_fig11.png", "CAT_25_lat_fig12.png",
+            "CAT_25_lat_fig13.png", "CAT_25_lat_fig14.png", "CAT_25_lat_fig15.png", "CAT_25_lat_fig16.png",
+            "CAT_25_lat_fig17.png", "CAT_25_lat_fig18.png", "CAT_25_lat_fig19.png", "CAT_25_lat_fig20.png",
+            "CAT_25_lat_fig21.png", "CAT_25_lat_fig22.png", "CAT_25_lat_fig23.png", "CAT_25_lat_fig24.png",
+            "CAT_25_lat_fig25.png", "CAT_25_lat_fig26.png", "CAT_25_lat_final.png"
+        ]
+    }
+}
